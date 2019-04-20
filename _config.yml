@@ -1,0 +1,23 @@
+
+title: Nan Thae Thinzar Wai
+url: 'https://thaethinzarwai.github.io'
+baseurl: '/thaethinzarwai.github.io' #change it according to your repository name
+
+
+
+# Profile information
+yourname: Nan Thae Thinzar Wai  ## put your name
+title: 'Web Developer'  ## your title
+location: No-398(B), 7-Fl, Banyar Dala Street, Tawme Township, Yangon, Myanmar.
+
+
+## Social Profiles
+facebook: http://www.facebook.com/thaethinzarwai  ## your facebook account url
+twitter: http://www.twitter.com/thaethinzarwai  ## your twitter account url
+linkedin: http://www.linkedin.com/in/thaethinzarwai  ## your linkedin account url
+dribbble: https://thaethinzarwai.com  ## you dribbble account url
+foursquare: https://thaethinzarwai.com  ## your foursquare account url
+youtube: http://www.youtube.com/c/thaethinzarwai   ## your youtube channel url
+
+
+# Update all the sections by editing the files inside _includes folder.
